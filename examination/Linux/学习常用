@@ -1,0 +1,3 @@
+配置正确的语言环境
+echo "export LC_ALL=en_US.UTF-8"  >>  /etc/profile
+source /etc/profile
